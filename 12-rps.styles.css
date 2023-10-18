@@ -12,6 +12,12 @@ body {
 
 /*MOVES BUTTONS*/
 
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 17px;
+}
+
 .move-icon {
   height: 50px;
 }
